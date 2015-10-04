@@ -1,4 +1,4 @@
-//
+﻿//
 //  Organizador.cpp
 //  Ordenacion_Algo
 //
@@ -18,7 +18,7 @@ int ORGNZDR::buscar_menor(int p, int & n){
         }
     }
     return iterador;
-}
+} //Cambio realizado en un documento
 int ORGNZDR::buscar_menor2(int p, int & n){
     int menor = 200;
     int iterador = -1;
